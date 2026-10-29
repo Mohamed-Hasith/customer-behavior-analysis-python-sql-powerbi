@@ -58,11 +58,11 @@ Built an interactive dashboard to explore revenue and sales by category, age gro
 
 
 ## Project Structure
-- `data/` raw dataset
-- `notebooks/` Python cleaning notebook
-- `sql/` SQL queries
-- `powerbi/` Power BI file
-- `images/` dashboard and SQL result screenshots
+- `Customer_Behavior_dataset.csv`  dataset
+- `Customer_Behavior_analysis.ipynb` Python cleaning notebook
+- `Customer_behavior_EDA.sql` SQL queries
+- `customer_behavior_dashboard.pbix` Power BI file
+- `Dashboard.png` dashboard  result screenshots
 
 ## Author
 **Mohamed Hasith M** | [LinkedIn](https://www.linkedin.com/in/mohamed-hasith-406801443/) | [GitHub](https://github.com/Mohamed-Hasith)
